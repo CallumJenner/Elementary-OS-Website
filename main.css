@@ -1,0 +1,18 @@
+body{
+    font-family: sans-serif;
+}
+
+.centre {
+    text-align: center;
+}
+
+.dl_btn {
+    background-color: deepskyblue;
+    color:white;
+    /*border-color: deepskyblue;*/
+}
+
+.side {
+    display: block;
+    width: 100px;
+}
